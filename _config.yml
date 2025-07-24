@@ -43,7 +43,7 @@ features                                  :
     
   - title                                 : Add Friends
     description                           : See your friends moods' and react
-    fontawesome_icon_name                 : user-group
+    fontawesome_icon_name                 : user-plus
 
   - title                                 : Calendar
     description                           : Track your feelings day by day
@@ -51,11 +51,11 @@ features                                  :
 
   - title                                 : Personal Map
     description                           : Visualize your emotional journey
-    fontawesome_icon_name                 : map-location
+    fontawesome_icon_name                 : map-pin
     
   - title                                 : Monthly Statistics
     description                           : See monthly trends in your mood patterns
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : chart-bar
     
   - title                                 : Overall Statistics
     description                           : Gain insight from your long-term emotional stats
@@ -67,7 +67,7 @@ features                                  :
 
   - title                                 : Search
     description                           : Search any place in the world
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : search
 
   - title                                 : Dark and Light Mode
     description                           : Enjoy our app in both dark and light mode

@@ -59,7 +59,7 @@ Want to learn more about what we do with any information we collect? Review the 
 17. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 18. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-#1. WHAT INFORMATION DO WE COLLECT?
+## 1. WHAT INFORMATION DO WE COLLECT?
 <br>
 Personal information you disclose to us
 In Short: We collect personal information that you provide to us.
@@ -143,7 +143,7 @@ In order to enhance our ability to provide relevant marketing, offers, and servi
 
 If you interact with us on a social media platform using your social media account (e.g. Facebook or X), we receive personal information about you from such platforms such as your name, email address, and gender. You may have the right to withdraw your consent to processing your personal information. Learn more about withdrawing your consent. Any personal information that we collect from your social media account depends on your social media account's privacy settings. Please note that their own use of your information is not governed by this Privacy Notice.
 
-# 2. HOW DO WE PROCESS YOUR INFORMATION?
+## 2. HOW DO WE PROCESS YOUR INFORMATION?
 <br>
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We process the personal information for the following purposes listed below. We may also process your information for other purposes only with your prior explicit consent.
 
@@ -169,7 +169,7 @@ To identify usage trends. We may process information about how you use our Servi
 
 To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
-# 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+## 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 <br>
 In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e. legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfil our contractual obligations, to protect your rights, or to fulfil our legitimate business interests.
 
@@ -213,7 +213,7 @@ If the collection is solely for journalistic, artistic, or literary purposes
 If the information is publicly available and is specified by the regulations
 We may disclose de-identified information for approved research or statistics projects, subject to ethics oversight and confidentiality commitments.
 
-# 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+## 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 <br>
 In Short: We may share information in specific situations described in this section and/or with the following third parties.
 
@@ -237,13 +237,13 @@ Other Users. When you share personal information (for example, by posting commen
 
 Offer Wall. Our application(s) may display a third-party hosted 'offer wall'. Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our application(s) and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our application(s). A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward.
 
-# 5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+## 5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 <br>
 In Short: We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services.
 
 The Services, including our offer wall, may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third-party websites. Any data collected by third parties is not covered by this Privacy Notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
 
-# 6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+## 6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 <br>
 In Short: We may use cookies and other tracking technologies to collect and store your information.
 
@@ -257,7 +257,7 @@ Specific information about how we use such technologies and how you can refuse c
 
 We may share your information with Google Analytics to track and analyse the use of the Services. To opt out of being tracked by Google Analytics across the Services, visit https://tools.google.com/dlpage/gaoptout. For more information on the privacy practices of Google, please visit the Google Privacy & Terms page.
 
-# 7. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+## 7. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 <br>
 In Short: If you choose to register or log in to our Services using a social media account, we may have access to certain information about you.
 
@@ -265,7 +265,7 @@ Our Services offer you the ability to register and log in using your third-party
 
 We will use the information we receive only for the purposes that are described in this Privacy Notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
-# 8. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+## 8. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 <br>
 In Short: We may transfer, store, and process your information in countries other than your own.
 
@@ -273,7 +273,7 @@ Our servers are located in. If you are accessing our Services from outside, plea
 
 If you are a resident in the European Economic Area (EEA), United Kingdom (UK), or Switzerland, then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. However, we will take all necessary measures to protect your personal information in accordance with this Privacy Notice and applicable law.
 
-# 9. HOW LONG DO WE KEEP YOUR INFORMATION?
+## 9. HOW LONG DO WE KEEP YOUR INFORMATION?
 <br>
 In Short: We keep your information for as long as necessary to fulfil the purposes outlined in this Privacy Notice unless otherwise required by law.
 
@@ -283,19 +283,19 @@ No purpose in this notice will require us keeping your personal information for 
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-# 10. HOW DO WE KEEP YOUR INFORMATION SAFE?
+## 10. HOW DO WE KEEP YOUR INFORMATION SAFE?
 <br>
 In Short: We aim to protect your personal information through a system of organisational and technical security measures.
 
 We have implemented appropriate and reasonable technical and organisational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorised third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-# 11. DO WE COLLECT INFORMATION FROM MINORS?
+## 11. DO WE COLLECT INFORMATION FROM MINORS?
 <br>
 In Short: We do not knowingly collect data from or market to children under 18 years of age or the equivalent age as specified by law in your jurisdiction.
 
 We do not knowingly collect, solicit data from, or market to children under 18 years of age or the equivalent age as specified by law in your jurisdiction, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or the equivalent age as specified by law in your jurisdiction or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age or the equivalent age as specified by law in your jurisdiction has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18 or the equivalent age as specified by law in your jurisdiction, please contact us at contact@irakliseleftheriadis.com.
 
-# 12. WHAT ARE YOUR PRIVACY RIGHTS?
+## 12. WHAT ARE YOUR PRIVACY RIGHTS?
 <br>
 In Short: Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
 
@@ -319,13 +319,13 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 If you have questions or comments about your privacy rights, you may email us at contact@irakliseleftheriadis.com.
 
-# 13. CONTROLS FOR DO-NOT-TRACK FEATURES
+## 13. CONTROLS FOR DO-NOT-TRACK FEATURES
 <br>
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ('DNT') feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognising and implementing DNT signals has been finalised. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
 
 California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognising or honouring DNT signals, we do not respond to them at this time.
 
-# 14. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+## 14. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 <br>
 In Short: If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below. 
 
@@ -454,7 +454,7 @@ Under certain US state data protection laws, if we decline to take action regard
 California 'Shine The Light' Law
 California Civil Code Section 1798.83, also known as the 'Shine The Light' law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section 'HOW CAN YOU CONTACT US ABOUT THIS NOTICE?'
 
-# 15. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
+## 15. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
 <br>
 In Short: You may have additional rights based on the country you reside in.
 Australia and New Zealand
@@ -481,13 +481,13 @@ The Information Regulator (South Africa)
 General enquiries: enquiries@inforegulator.org.za
 Complaints (complete POPIA/PAIA form 5): PAIAComplaints@inforegulator.org.za & POPIAComplaints@inforegulator.org.za
 
-# 16. DO WE MAKE UPDATES TO THIS NOTICE?
+## 16. DO WE MAKE UPDATES TO THIS NOTICE?
 <br>
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated 'Revised' date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
-# 17. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+## 17. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 <br>
 If you have questions or comments about this notice, you may email us at contact@irakliseleftheriadis.com or contact us by post at:
 Iraklis Eleftheriadis
@@ -495,6 +495,8 @@ Solonos 14, Alexandroupoli 681 00, Greece
 Alexandroupoli, Evros 681 00
 Greece
 
-# 18. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+## 18. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 <br>
 Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: https://www.moodiemap.com/contact/.
+<br>
+<br>

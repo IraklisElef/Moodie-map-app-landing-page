@@ -1,35 +1,35 @@
 #page title
-page_title                                : Απολύομαι                                   # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Moodie Map                                   # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 6504982905                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : #TODO                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : gr                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             : https://apps.apple.com/gr/app/apolyomai/id6504982905                                         # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.iraklis.Apolyomai                                   # Enter Google Play Store URL.
+appstore_link                             :  #TODO                                        # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :     #TODO                                  # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon_header                           : assets/appicon-rounded.png
 app_icon                                  : assets/appicon-rounded.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Απολύομαι                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Δωρεάν                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Ο μετρητής απόλυσής σου!
+app_name                                  : Moodie Map                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Track Emotions Worldwide
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Ηρακλή Ελευθεριάδη
+your_name                                 : Iraklis Eleftheriadis
 your_link                                 : https://www.irakliseleftheriadis.com
 your_city                                 :                                 
-email_address                             : info@apolyomai.com
-facebook_username                         : apolyomaiapp
-instagram_username                        : apolyomai
-twitter_username                          : apolyomai
+email_address                             : info@moodiemap.com
+facebook_username                         : moodiemap
+instagram_username                        : moodiemap
+twitter_username                          : moodiemap
 github_username                           :
-youtube_username                          : apolyomai
+youtube_username                          : moodiemap
 mastodon_link                             :
 
 
@@ -37,41 +37,41 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Μετρητής Στρατού
-    description                           : Μέτρα τα υπολειπόμενα ΚΣ σου.
-    fontawesome_icon_name                 : clock
+  - title                                 : Feelings Map
+    description                           : See how the world feels in real time
+    fontawesome_icon_name                 : map
     
-  - title                                 : Προσθήκη Πληροφοριών
-    description                           : Πρόσθεσε όλες τις υπηρεσίες, άδειες, κρατήσεις και φυλακές σου.
-    fontawesome_icon_name                 : plus
+  - title                                 : Add Friends
+    description                           : See your friends moods' and react
+    fontawesome_icon_name                 : user-group
 
-  - title                                 : Ημερολόγιο
-    description                           : Παρακολούθησε όλες τις πληροφορίες της θητείας σου.
+  - title                                 : Calendar
+    description                           : Track your feelings day by day
     fontawesome_icon_name                 : calendar
 
-  - title                                 : Στατιστικά
-    description                           : Ανάλυσε όλες τις πληροφορίες της θητείας σου.
+  - title                                 : Personal Map
+    description                           : Visualize your emotional journey
+    fontawesome_icon_name                 : map-location
+    
+  - title                                 : Monthly Statistics
+    description                           : See monthly trends in your mood patterns
+    fontawesome_icon_name                 : chart-simple
+    
+  - title                                 : Overall Statistics
+    description                           : Gain insight from your long-term emotional stats
     fontawesome_icon_name                 : chart-pie
-    
-  - title                                 : Υπηρεσίες
-    description                           : Πρόσθεσε δικές σου και επεξεργάσου τις υπάρχουσες.
-    fontawesome_icon_name                 : list
-    
-  - title                                 : Στρατιωτικός Εξοπλισμός
-    description                           : Αποθήκευσε στοιχεία στρατιωτικού εξοπλισμού όπως τον αριθμό όπλου ή κλείστρου.
-    fontawesome_icon_name                 : toolbox
 
-  - title                                 : Ιεραρχίες
-    description                           : Ενημερώσου σχετικά με την ιεραρχία του στρατού ξηράς, πολεμικού ναυτικού και πολεμικής αεροπορίας.
-    fontawesome_icon_name                 : sitemap
+  - title                                 : Filters
+    description                           : Apply different filters on the map
+    fontawesome_icon_name                 : bars
 
-  - title                                 : Επιτεύγματα
-    description                           : Ξεκλείδωσε διάφορα επιτεύγματα κατά την διάρκεια της θητείας σου.
-    fontawesome_icon_name                 : trophy
+  - title                                 : Search
+    description                           : Search any place in the world
+    fontawesome_icon_name                 : magnifying-glass
 
-  - title                                 : Στρατιωτική Αργκό
-    description                           : Εξερεύνησε και μάθε στρατιωτική αργκό για να παραμείνεις συνδεδεμένος με τη μοναδική κουλτούρα της στρατιωτικής ζωής.
-    fontawesome_icon_name                 : font
+  - title                                 : Dark and Light Mode
+    description                           : Enjoy our app in both dark and light mode
+    fontawesome_icon_name                 : pen
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -80,7 +80,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#4D702F"
+topbar_color                              : "#A259FF"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
@@ -92,7 +92,7 @@ device_color                              : mockup                          # Se
 
 body_background_color                     : "#000000"
 
-link_color                                : "#4D702F"
+link_color                                : "#A259FF"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -101,10 +101,10 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#ffffff"
 feature_text_color                        : "#808080"
 
-feature_icons_foreground_color            : "#4D702F"
+feature_icons_foreground_color            : "#A259FF"
 feature_icons_background_color            : "#e6e6e6"
 
-social_icons_foreground_color             : "#4D702F"
+social_icons_foreground_color             : "#A259FF"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#808080"
